@@ -78,3 +78,23 @@ form input:valid~button {
   opacity: 1;
   pointer-events: auto;
 }
+
+/*a*/
+* a {
+  color: #4285F4;
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+* a:hover {
+  color: #6A3DE8;
+  text-decoration: none;
+}
+
+* a:first-of-type {
+  color: #4285F4;
+}
+
+* a:first-of-type:hover {
+  color: #6A3DE8;
+}

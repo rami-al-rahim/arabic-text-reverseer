@@ -42,7 +42,7 @@
 
 .navigation a {
 
-    color: #007bff;
+    color: #3498DB;
 
     text-decoration: none;
 
@@ -58,7 +58,7 @@
 
 .nav-list a {
 
-    color: #FFC107;
+    color: #3498DB;
 
     text-decoration: none;
 
@@ -68,7 +68,7 @@
 
 .nav-list a:hover {
 
-    color: #C2185B;
+    color: #3e8e41;
 
     text-decoration: none;
 
@@ -147,22 +147,22 @@ input:valid~button {
 
 /*a*/
 * a {
-  color: #4285F4;
+  color: #3498DB;
   text-decoration: none;
   font-size: 1.1em;
 }
 
 * a:hover {
-  color: #6A3DE8;
+  color: #3e8e41;
   text-decoration: none;
 }
 
 * a:first-of-type {
-  color: #4285F4;
+  color: #3498DB;
 }
 
 * a:first-of-type:hover {
-  color: #6A3DE8;
+  color: #3e8e41;
 }
 @media (max-width:1023px) {
 
@@ -266,7 +266,7 @@ input:valid~button {
 
     margin-bottom: 10px;
 
-    background: #FFC107;
+    background: #3498DB;
 
     border-radius: 10%;
 
@@ -276,7 +276,7 @@ input:valid~button {
 
 .header .navbar-toggler .bar :hover {
 
-    background: #C2185B;
+    background: #3498DB;
 
 }
 
